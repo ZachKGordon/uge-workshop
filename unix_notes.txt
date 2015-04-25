@@ -1,0 +1,16 @@
+Notes
+We made the History move into the moving_around.txt file.
+Then we moved that file into uge_workshop folder
+
+
+
+man mv
+mv man
+uge_workshop/
+ls
+~
+clear
+s
+$
+ls -l
+mv moving_around.txt .uge_workshop
