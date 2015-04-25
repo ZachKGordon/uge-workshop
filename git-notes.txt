@@ -11,3 +11,6 @@ $git branch - shows the available branches
 $git checkout <branch or file name> - changes branches
 
 subl <file name> opens up the .txt so we can edit and then save.
+
+To connect with github type git remote add origin http:
+git push -u origin master
