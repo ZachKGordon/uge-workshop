@@ -2,6 +2,8 @@ Notes
 We made the History move into the moving_around.txt file.
 Then we moved that file into uge_workshop folder
 
+I changed the file name moving_around.txt to unix_notes.txt
+Files that begin with . and .. are hidden files.
 
 
 man mv
