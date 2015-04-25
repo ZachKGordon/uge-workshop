@@ -1,0 +1,16 @@
+git init - creates repo/.git
+touch <file name> - reate a file with touch
+git status - to check where you are at
+add a file - puts a file in the staging area
+git status - see the changes
+commit a file - saves the file in the git log
+git log - see the new file with the -m message
+
+$git branch <branch name> - creates a branch
+$git branch - shows the available branches
+$git checkout <branch or file name> - changes branches
+
+subl <file name> opens up the .txt so we can edit and then save.
+
+To connect with github type git remote add origin http:
+git push -u origin master
